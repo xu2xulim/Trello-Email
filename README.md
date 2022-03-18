@@ -3,7 +3,8 @@
 Trello offers a couple of email related services/solutions. They include :
 
 - Email from Trello automation
-This sends email message as part of Trello automation.
+
+  This sends email message as part of Trello automation.
 
 - Email to board
 
