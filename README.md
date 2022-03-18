@@ -68,3 +68,5 @@ With the pre-requisites in place, the additional capabilities of this solution i
 ### /
 
 This serves as the webhook endpoint for the CloudMailin SMTP to http service.
+
+The endpoint documentation is available at https://9vtsr8.deta.dev/redoc
