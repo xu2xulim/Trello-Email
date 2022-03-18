@@ -36,6 +36,18 @@ It uses CloudMailin to send the email message to a Deta Micro. The configuration
 
 Since the entire email content is available to the endpoints, the application can be modified for specific needs e.g. to display the sender email address on the card description.
 
+#### Endpoints
+
+### /
+
+This serves as the webhook endpoint for the CloudMailin SMTP to http service.
+
+### /setup
+
+This is used to setup the destination board and list for each CloudMailin email account.
+
+The endpoint documentation is available at https://wy9u2s.deta.dev/redoc
+
 ### Email to Card Plus
 
 This solution is built using Contalist, CloudMailin and a Deta Micro application.
@@ -50,3 +62,9 @@ With the pre-requisites in place, the additional capabilities of this solution i
 - create the comment using the email subject and body on **any card**. There is no need to share Trello card email address
 - adds attachment(s) to the card, if this is included in the email.
 - Since the entire email content is available to the endpoint, the application can be modified for specific needs e.g. to display the sender email address on the card description.
+
+#### Endpoints
+
+### /
+
+This serves as the webhook endpoint for the CloudMailin SMTP to http service.
