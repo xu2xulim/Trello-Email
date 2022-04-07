@@ -34,10 +34,10 @@ The following is an outline for creating an advanced checklist on a new card.
 - A new card cardname = **"New Card"** will be create on the first list on the board and the checklist name is **"Email to Advanced Checklist"**.
 
 ### Notes
-- Have a space between the item name, member username and the due date
-- Item name is mandatory
-- Username and due dates are Optional
-- Do not use **@ and %** as part of the item name
-- The order for username and due date is not critical
+- Have a space between the item name, member username and the due date.
+- Item name is mandatory.
+- Username and due dates are Optional.
+- *DO NOT* use **@ or %** as part of the item name.
+- The order for username and due date is not critical.
 - While date format shown in the example is YYYY-MM-DD, it should not matter but you should test it.
-- Technically there is no limit on the number of items
+- Technically there is no limit on the number of items.
