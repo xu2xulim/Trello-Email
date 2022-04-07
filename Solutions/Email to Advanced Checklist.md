@@ -41,3 +41,7 @@ The following is an outline for creating an advanced checklist on a new card.
 - The order for username and due date is not critical.
 - While date format shown in the example is YYYY-MM-DD, it should not matter but you should test it.
 - Technically there is no limit on the number of items.
+
+### Test Results
+The following has been tested successfully :
+- Gmail
