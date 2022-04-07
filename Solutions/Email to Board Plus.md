@@ -6,7 +6,7 @@ As the name suggests, it implements the capabilities of Trello email to board an
 - converts number list from email body to Checklists
 - cards can be created for any list on any board with a single custom email address
 
-It uses CloudMailin to send the email message to a Deta Micro. The configuration is stored in a Deta Base. It requires an admin user API Key and Token to be kept in the .env folder on the micro.
+It uses CloudMailin to send the email message to a Deta Micro. The configuration is stored in a [Deta Base](https://docs.deta.sh/docs/base/about/). It requires an admin user API Key and Token to be kept in the .env folder on the micro.
 
 Since the entire email content is available to the endpoints, the application can be modified for specific needs e.g. to display the sender email address on the card description.
 
