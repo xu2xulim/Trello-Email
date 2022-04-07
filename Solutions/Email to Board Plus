@@ -1,4 +1,4 @@
-### Email to Board Plus
+# Email to Board Plus
 
 As the name suggests, it implements the capabilities of Trello email to board and some additional features including :
 
@@ -10,7 +10,7 @@ It uses CloudMailin to send the email message to a Deta Micro. The configuration
 
 Since the entire email content is available to the endpoints, the application can be modified for specific needs e.g. to display the sender email address on the card description.
 
-#### Endpoints
+## Endpoints
 
 ### /
 

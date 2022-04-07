@@ -23,3 +23,7 @@ For more details of the last two capabilities see https://help.trello.com/articl
 ## Custom built email solutions
 
 The following are custom built email solutions :
+
+- Email to Board Plus
+- Email to Card Plus
+- Email to Advanced Checklist

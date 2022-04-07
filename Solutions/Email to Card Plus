@@ -1,4 +1,4 @@
-### Email to Card Plus
+# Email to Card Plus
 
 This solution is built using Contalist, CloudMailin and a Deta Micro application.
 
@@ -13,7 +13,7 @@ With the pre-requisites in place, the additional capabilities of this solution i
 - adds attachment(s) to the card, if this is included in the email.
 - Since the entire email content is available to the endpoint, the application can be modified for specific needs e.g. to display the sender email address on the card description.
 
-#### Endpoints
+## Endpoints
 
 ### /
 
