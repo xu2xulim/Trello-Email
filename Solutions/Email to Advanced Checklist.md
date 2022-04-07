@@ -24,6 +24,7 @@ The following is an outline for creating an advanced checklist on a new card.
 - Create an email
 - Address it to the CloudMailin Email
 - Add the board id to as the subject of the email. e.g. Subject : 5fdd53039a97d380e792101e
+  - You can get the board id by appending **.json** to the board url e.g. `https://trello.com/b/CkgNRQgc/dojo-1.json` The resulting screen show the board json file and the board id is the first string e.g. `{"id":"5fdd53039a97d380e792101e","name":"Dojo 1","desc":""....`
 - Create a **numbered list** in the email body starting with serial number **1. ** . Most email would have this built in capability.
 - Each item on the list will consist of :
   - checklist item name e.g. Check the registration
@@ -32,7 +33,7 @@ The following is an outline for creating an advanced checklist on a new card.
   - Putting it together : Check the registration status @superhuman %2022-05-13
 - A new card cardname = **"New Card"** will be create on the first list on the board and the checklist name is **"Email to Advanced Checklist"**.
 
-### Notes 
+### Notes
 - Have a space between the item name, member username and the due date
 - Item name is mandatory
 - Username and due dates are Optional
