@@ -3,7 +3,7 @@
 This solution is built using CloudMailin and a Deta Base application. While can be deployed to Deta, it is current deployed as a service on Wayscript.
 
 The pre-requisites includes :
-- a valid registration of the board with your Trello credentials. Note that the credentials are kept is a Deta Base.
+- a valid registration of the board with your Trello credentials. Note that the credentials are kept is a [Deta Base](https://docs.deta.sh/docs/base/about/).
  - Your datain Deta Base is encrypted and stored safely on AWS. Encryption keys are managed by AWS; AWS manages Exabytes of the world's most sensitive data.
 - an CloudMailin email address that forwards to the endpoint sending the email in json normalized format. This will be provided to upon completion of the registration.
 
